@@ -10,10 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/araquach/pricecalc-component.git"
   },
-  "author": "",
+  "author": "Adam Carter",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/araquach/pricecalc-component/issues"
-  },
-  "homepage": "https://github.com/araquach/pricecalc-component#readme"
+  }
 }
