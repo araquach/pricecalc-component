@@ -1,0 +1,19 @@
+{
+  "name": "pricecalc-component",
+  "version": "1.0.0",
+  "description": "The add on for the salon sites",
+  "main": "Main.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/araquach/pricecalc-component.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/araquach/pricecalc-component/issues"
+  },
+  "homepage": "https://github.com/araquach/pricecalc-component#readme"
+}
